@@ -1,4 +1,4 @@
-# FlexoBlog
+# FlexBlog
 ---
 ## Treinando CSS e Flexbox.
 
@@ -8,5 +8,5 @@
  
  - HTML
  - CSS
- 
+
 
